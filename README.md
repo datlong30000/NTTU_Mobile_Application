@@ -12,4 +12,4 @@ Một số nguồn kiến thức bạn nên biết trước khi tìm hiểu proj
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-Nếu cần trợ giúp hãy liên hệ Zalo 0788588178 để có thể cùng học tập và phát triển ứng dụng.
+Nếu cần trợ giúp hãy liên hệ email (datlong30000@gmail.com) để có thể cùng học tập và phát triển ứng dụng.
