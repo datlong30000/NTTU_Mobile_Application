@@ -1,6 +1,6 @@
 # nienproject
 
-A Flutter project for ChatBot handler API.
+A Flutter project for handle Chatbot API.
 
 ## Getting Started
 
